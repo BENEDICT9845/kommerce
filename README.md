@@ -5,8 +5,7 @@ Kohana PHP E-commerce frontend
 
 ## Introduction
 
-Zen Kommerce is a PHP shopping cart frontend written in the Kohana framework using the [Zen Kommerce-Core](https://github.com/inklabs/kommerce-core) project.
-More information can be found [here](http://inklabs.github.io/kommerce/).
+Zen Kommerce is a PHP shopping cart frontend written in the Kohana system utilizing the [Zen Kommerce-Core](https://github.com/inklabs/kommerce-core) venture. More data can be found [here](http://inklabs.github.io/kommerce/)..
 
 ## Vagrant Setup
 
@@ -46,7 +45,7 @@ More information can be found [here](http://inklabs.github.io/kommerce/).
 </pre>
 
 * Selenium
-	- You can run the acceptance tests in Selenium; however, not all tests are verified to work.
+	- You can run the acknowledgment tests in Selenium; be that as it may, not all tests are confirmed to work. 
 	- Edit tests/acceptance.suite.yml to enable Selenium2 and comment out PhpBrowser and WebHelper.
 
 <pre>
